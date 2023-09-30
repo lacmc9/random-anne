@@ -1,3 +1,4 @@
+var name = {tryarg:0}
 var responses = [           
 	"https://media.tenor.com/MpMO-i_gDUcAAAAC/tand-lo-anne-of-green-gables.gif",          
 	"https://media.tenor.com/4BWRPRF3lM8AAAAC/convince-family.gif",      
@@ -13,8 +14,11 @@ var responses = [
 	"https://media.discordapp.net/attachments/1088466964411863063/1155581709627183275/captionTwo.gif",
     "https://tenor.com/view/anne1985-anne-gif-18279873"
 ];           
-           
+if (name === "woro") {
+	String(["TEST"]);
+} else {
 var randomIndex = Math.floor(Math.random() * responses.length);           
 var response = responses[randomIndex];           
            
-String([response]); 
+String([response]);
+}
