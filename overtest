@@ -1,0 +1,7 @@
+let inputString = "Hello";
+
+if (inputString === "Hello") {
+  console.log("The input string is 'Hello'.");
+} else {
+  console.log("The input string is not 'Hello'.");
+}
