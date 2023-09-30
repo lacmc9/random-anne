@@ -1,4 +1,4 @@
-let inputString = "Hello";
+var inputString = {tryarg:0};
 
 if (inputString === "Hello") {
   console.log("The input string is 'Hello'.");
