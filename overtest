@@ -1,7 +1,6 @@
 var inputString = {tryarg:0};
 
-if (inputString === "Hello") {
+if (inputString === "Hello")
   console.log("The input string is 'Hello'.");
-} else {
+else
   console.log("The input string is not 'Hello'.");
-}
