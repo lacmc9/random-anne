@@ -12,7 +12,8 @@ var responses = [
 	"https://media.discordapp.net/attachments/1154040452492824647/1155222079701012631/captionTwo.gif",
 	"https://media.discordapp.net/attachments/1088466964411863063/1155581709627183275/captionTwo.gif",
 	"https://media.tenor.com/S3LNBDTpv8QAAAAd/anne1985-anne.gif",
-	"https://media.tenor.com/gNjFUqQZmFkAAAAC/tand-lo-anne-of-green-gables.gif"
+	"https://media.tenor.com/gNjFUqQZmFkAAAAC/tand-lo-anne-of-green-gables.gif",
+	"https://media.tenor.com/NVI6H3rhDk4AAAAd/period-drama-anne-of-green-gables.gif"
 ];           
            
 var randomIndex = Math.floor(Math.random() * responses.length);           
