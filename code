@@ -15,7 +15,8 @@ var responses = [
 	"https://media.tenor.com/gNjFUqQZmFkAAAAC/tand-lo-anne-of-green-gables.gif",
 	"https://media.tenor.com/NVI6H3rhDk4AAAAd/period-drama-anne-of-green-gables.gif",
 	"https://c.tenor.com/9DeQTBeTS70AAAAd/tenor.gif",
-	"https://c.tenor.com/L0YKXbHMnWQAAAAd/tenor.gif"
+	"https://c.tenor.com/L0YKXbHMnWQAAAAd/tenor.gif",
+	"https://c.tenor.com/rcRZIM2OPywAAAAd/tenor.gif"
 ];           
            
 var randomIndex = Math.floor(Math.random() * responses.length);           
